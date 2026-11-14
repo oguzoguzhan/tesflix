@@ -1,0 +1,727 @@
+{
+  "users": [
+    {
+      "id": "usr-admin",
+      "name": "Sistem Yöneticisi",
+      "email": "admin@tesflix.com.tr",
+      "passwordHash": "2b384c457772b6b8b2b2ffd04f4c6c426482fad0698345268b08b9617df287c3",
+      "role": "admin",
+      "isActive": true,
+      "createdAt": "2026-11-14T10:57:24.345Z",
+      "youtubeAccount": {
+        "handle": "@admin",
+        "handleOrUrl": "admin@sefirox.com",
+        "email": "admin@sefirox.com",
+        "displayName": "Administrator",
+        "channelTitle": "Administrator",
+        "avatarUrl": "https://yt3.googleusercontent.com/3Z_Ndlk9yJ8g-rtxhgtS50gkmwJfQOBBcpldcsP-0YPHCOUkATbLK30dHOu7wo6k4-Tvb5D3MA=s900-c-k-c0x00ffffff-no-rj",
+        "connectedAt": "2026-11-14T12:49:38.229Z",
+        "myVideos": [
+          {
+            "id": "yt-nIw_uYW1boI",
+            "videoId": "nIw_uYW1boI",
+            "title": "🔴CANLI - ADMİN PANELİYLE YENİ GÜNCELLEMEYİ İNCELİYORUZ! ROBUXLU YUMURTA DAĞITIYORUM!",
+            "channel": "Tetra Bey",
+            "duration": "CANLI",
+            "views": "871 kişi izliyor",
+            "cat": "Canlı Yayın"
+          },
+          {
+            "id": "yt-BCvxVc83DC0",
+            "videoId": "BCvxVc83DC0",
+            "title": "Roblox Steal An Egg'te ADMİN PANELİ Aktif Ettim!",
+            "channel": "Samet200",
+            "duration": "8:54",
+            "views": "4,2 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-A0Sq6mLC0xo",
+            "videoId": "A0Sq6mLC0xo",
+            "title": "Admin, Nimda ve Cemre ile birlikte 24 saat mor gün...",
+            "channel": "Cerendirella",
+            "duration": "13:47",
+            "views": "60 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-yxCk9lgOBJ0",
+            "videoId": "yxCk9lgOBJ0",
+            "title": "Kızkardeşim Manifest LİDYA Olarak Admini Trolledi!!",
+            "channel": "Cerendirella",
+            "duration": "17:36",
+            "views": "277 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-AZ6Z-pfJrBw",
+            "videoId": "AZ6Z-pfJrBw",
+            "title": "Admin SADECE ADMİN AİLESİ Başlattı...",
+            "channel": "Cerendirella",
+            "duration": "17:21",
+            "views": "461 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-fS3QKqd2dWU",
+            "videoId": "fS3QKqd2dWU",
+            "title": "PK XD ADMİN'İN ANNESİ OLDUM ! @AdminPKXD EN YAKIN ARKADAŞI MAYA !? BİRİ BENİ KURTARSIN !!!| ÖZGÜŞ TV",
+            "channel": "ÖZGÜŞ TV",
+            "duration": "22:37",
+            "views": "523 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-IfxtcDHr0Tw",
+            "videoId": "IfxtcDHr0Tw",
+            "title": "PK XD ADMİN AİLESİ KURDUM💫 (Anne, Baba ve Bebek Admin) | ÖZGÜŞ TV",
+            "channel": "ÖZGÜŞ TV",
+            "duration": "23:15",
+            "views": "126 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-Wl17m2Y-zmc",
+            "videoId": "Wl17m2Y-zmc",
+            "title": "ADMİN VE NİMDA İLE BU UÇAĞA BİNMEMELİYDİM...",
+            "channel": "Cerendirella",
+            "duration": "17:56",
+            "views": "255 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-eblUo7RxqYs",
+            "videoId": "eblUo7RxqYs",
+            "title": "Admin ile PKXD'de RENKLERİMİZİ Değiştiriyoruz!!",
+            "channel": "Cerendirella",
+            "duration": "12:24",
+            "views": "110 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-YC0euGKSmcY",
+            "videoId": "YC0euGKSmcY",
+            "title": "ADMİN Takımı VS NİMDA Takımı ! -PKXD",
+            "channel": "Cerendirella",
+            "duration": "13:39",
+            "views": "121 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-1SxDKgDA19s",
+            "videoId": "1SxDKgDA19s",
+            "title": "ADMİN OLUP OYUNUN EN DEĞERLİ PETİNİ ALDIM! 😱 | Roblox Türkçe",
+            "channel": "Emre Belen",
+            "duration": "15:12",
+            "views": "862 görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-kp3yp47cI28",
+            "videoId": "kp3yp47cI28",
+            "title": "Admin ile birlikte KIZ TROLL KULESİNDE Tercihler Yaptık !!",
+            "channel": "Cerendirella",
+            "duration": "14:13",
+            "views": "225 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-IrTvlNcbTNE",
+            "videoId": "IrTvlNcbTNE",
+            "title": "Cemre BAŞKAN Oldu... Admin, Ceren,Nimda YARDIMCI OLDU !!",
+            "channel": "Cerendirella",
+            "duration": "16:50",
+            "views": "734 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-swQF-eI9ZQs",
+            "videoId": "swQF-eI9ZQs",
+            "title": "NİMDA VE ADMİN DALGA GEÇİNCE BİZ DE GLOW-UP GEÇİRDİK!!",
+            "channel": "Cerendirella",
+            "duration": "14:15",
+            "views": "503 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-65LnfnfHrKc",
+            "videoId": "65LnfnfHrKc",
+            "title": "NEDEN Admin Köyümüze Geldi? - Minecraft",
+            "channel": "Ferited",
+            "duration": "28:25",
+            "views": "1,3 Mn görüntüleme",
+            "cat": "YouTube"
+          }
+        ],
+        "homeFeed": [
+          {
+            "id": "yt-IfifC6fNmdQ",
+            "videoId": "IfifC6fNmdQ",
+            "title": "Yeni Çıkan Türkçe Şarkılar | 14 Kasım 2026 | 2026 Yeni Şarkılar",
+            "channel": "Adres Müzik",
+            "duration": "8:06",
+            "views": "2,3 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-qgSVE71wNec",
+            "videoId": "qgSVE71wNec",
+            "title": "Sibel Can & Eypio – KIYAMAM (Official Music Video)",
+            "channel": "Sibel Can ve Eypio Official",
+            "duration": "2:28",
+            "views": "47 Mn görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-e0gAqGszibE",
+            "videoId": "e0gAqGszibE",
+            "title": "🎶 2026’DA HERKESİN DİNLEDİĞİ ŞARKILAR!",
+            "channel": "‘b",
+            "duration": "2:21",
+            "views": "695 görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-VsOOYjeZW9s",
+            "videoId": "VsOOYjeZW9s",
+            "title": "GARSON - Burak Bulut & İrem Derici🔥TREND Türkçe Pop Şarkılar 2026🎧Haftanın Pop Hit Şarkıları 2026",
+            "channel": "Kök Müzik",
+            "duration": "28:29",
+            "views": "76 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-SCO31OxM8rQ",
+            "videoId": "SCO31OxM8rQ",
+            "title": "Sebebi Yar - BLOK3 I Türkçe Pop 2026 | En Popüler Türkçe Şarkılar | Haftanın Trend Müzikleri",
+            "channel": "Kök Müzik",
+            "duration": "12:27",
+            "views": "8,1 Mn görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-ja253s76rt0",
+            "videoId": "ja253s76rt0",
+            "title": "Türkçe Pop Müzik 2026 🔥 En Hit Şarkılar | Haftanın Trend Türkçe Pop Listesi | En Yeni Müzikler 2026",
+            "channel": "Sonsuz Müzik ",
+            "duration": "23:23",
+            "views": "6 görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-NZqXSK11arY",
+            "videoId": "NZqXSK11arY",
+            "title": "Türkiye 2026 World Cup Song 🏆 | Çalhanoğlu Çalhanoğlu 🎶",
+            "channel": "BRD Kutu",
+            "duration": "2:07",
+            "views": "961 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-rD4tFa2iD48",
+            "videoId": "rD4tFa2iD48",
+            "title": "Türkiye - Dünya Kupası 2026 - Milli Takım Marşı (Official Video)",
+            "channel": "Okan Karadeniz",
+            "duration": "2:01",
+            "views": "1 Mn görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-40LkA5PaEqk",
+            "videoId": "40LkA5PaEqk",
+            "title": "Türkiye'de Çay Üretmek Hata mı?",
+            "channel": "Evrim Ağacı",
+            "duration": "31:00",
+            "views": "559 B görüntüleme",
+            "cat": "YouTube"
+          }
+        ],
+        "subscriptions": [
+          {
+            "handle": "@netdmüzik",
+            "name": "netd müzik"
+          },
+          {
+            "handle": "@TRT1",
+            "name": "TRT 1"
+          },
+          {
+            "handle": "@beINSPORTSTurkiye",
+            "name": "beIN SPORTS Türkiye"
+          },
+          {
+            "handle": "@HaberturkTV",
+            "name": "Habertürk TV"
+          }
+        ],
+        "subscriptionVideos": [
+          {
+            "id": "yt-KG-03WaxHiY",
+            "videoId": "KG-03WaxHiY",
+            "title": "Vezirhan, Topçam ve Genç Ülküm Spor Kulübü'ne konuk olduk! | beIN SQUAD 2026-2027 #2",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "50:50",
+            "views": "7,9 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-4WlZaA0VVw0",
+            "videoId": "4WlZaA0VVw0",
+            "title": "Türkiye - Belçika | UEFA Uluslar Ligi | Maçın Tamamı",
+            "channel": "atv",
+            "duration": "2:10:39",
+            "views": "959 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-p2i_gA7nDf4",
+            "videoId": "p2i_gA7nDf4",
+            "title": "\"Halı saha golleri yedik\" |  Türkiye - Belçika | Stadyum",
+            "channel": "TRT SPOR",
+            "duration": "1:07:43",
+            "views": "77 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-i7UpPgxfZZ8",
+            "videoId": "i7UpPgxfZZ8",
+            "title": "beIN SPORTS HABER Canlı Yayını | #beINSPORTS",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "CANLI",
+            "views": "19 kişi izliyor",
+            "cat": "Canlı Yayın"
+          },
+          {
+            "id": "yt-aNcHf1WuR_w",
+            "videoId": "aNcHf1WuR_w",
+            "title": "🔴 CANLI | TÜRKİYE - BELÇİKA | MAÇ SONU | ÜMİT ÖZAT & FATİH AKYEL & MELİH ŞENDİL",
+            "channel": "TandemSports",
+            "duration": "1:43:45",
+            "views": "184 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-HnHiuAsX1w8",
+            "videoId": "HnHiuAsX1w8",
+            "title": "Trendyol Süper Lig'de 11. Haftanın Bütün Golleri | 2026/27",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "14:07",
+            "views": "20 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-20mzCkNYi8o",
+            "videoId": "20mzCkNYi8o",
+            "title": "Amed SF'nin İlk 11 Haftada Attığı Tüm Goller | Trendyol Süper Lig",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "28:51",
+            "views": "5,5 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-upVpvpG7lRE",
+            "videoId": "upVpvpG7lRE",
+            "title": "Canlı 🔴 Türkiye - Belçika Devre Arası | Ümit Karan - Emre Bol - Emre Zabunoğlu",
+            "channel": "sporON",
+            "duration": "16:26",
+            "views": "44 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-QqaQytyCoSw",
+            "videoId": "QqaQytyCoSw",
+            "title": "🔴 CANLI | Türkiye - Belçika Maç Sonu | Nihat Kahveci, Nebil Evren | Kontratak Uluslar Ligi",
+            "channel": "Kontraspor",
+            "duration": "1:48:13",
+            "views": "695 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-yxvrreKaySQ",
+            "videoId": "yxvrreKaySQ",
+            "title": "Galatasaray - Amed SF | 11. HAFTA MAÇ ÖZETİ | Trendyol Süper Lig - 2026/27",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "9:59",
+            "views": "984 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-IJcLe0LRNQ8",
+            "videoId": "IJcLe0LRNQ8",
+            "title": "Şampiyon Mercedes, Verstappen'in Yükselişi, Antonelli Zorlandı, Stratejik Tercihler | Telemetri #23",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "51:41",
+            "views": "20 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-p-c0a0RDEcA",
+            "videoId": "p-c0a0RDEcA",
+            "title": "Türkiye 1-2 Belçika | Orta Nokta - 12 Kasım 2026",
+            "channel": "Tivibu Spor",
+            "duration": "1:33:36",
+            "views": "50 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-g6_7hG5oYrs",
+            "videoId": "g6_7hG5oYrs",
+            "title": "Galatasaray - Amed SF Maçının Tartışmalı Pozisyonları | Trio",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "1:23:53",
+            "views": "46 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-Xv0OYEwuWLY",
+            "videoId": "Xv0OYEwuWLY",
+            "title": "Trabzonspor'un İlk 11 Haftada Attığı Tüm Goller | Trendyol Süper Lig",
+            "channel": "beIN SPORTS Türkiye",
+            "duration": "30:19",
+            "views": "95 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-loCpml3aMbA",
+            "videoId": "loCpml3aMbA",
+            "title": "Türkiye - Belçika Maç Sonu | Ersin Düzen, Uğur Karakullukçu, Veli Yiğit, Erbatur Ergenekon",
+            "channel": "NOW Spor",
+            "duration": "2:13:56",
+            "views": "250 B görüntüleme",
+            "cat": "YouTube"
+          }
+        ],
+        "playlists": [
+          {
+            "id": "pl-favorilerim",
+            "title": "Administrator - Araç İçi Seçkilerim",
+            "url": "",
+            "videoCount": 15,
+            "videos": [
+              {
+                "id": "yt-nIw_uYW1boI",
+                "videoId": "nIw_uYW1boI",
+                "title": "🔴CANLI - ADMİN PANELİYLE YENİ GÜNCELLEMEYİ İNCELİYORUZ! ROBUXLU YUMURTA DAĞITIYORUM!",
+                "channel": "Tetra Bey",
+                "duration": "CANLI",
+                "views": "871 kişi izliyor",
+                "cat": "Canlı Yayın"
+              },
+              {
+                "id": "yt-BCvxVc83DC0",
+                "videoId": "BCvxVc83DC0",
+                "title": "Roblox Steal An Egg'te ADMİN PANELİ Aktif Ettim!",
+                "channel": "Samet200",
+                "duration": "8:54",
+                "views": "4,2 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-A0Sq6mLC0xo",
+                "videoId": "A0Sq6mLC0xo",
+                "title": "Admin, Nimda ve Cemre ile birlikte 24 saat mor gün...",
+                "channel": "Cerendirella",
+                "duration": "13:47",
+                "views": "60 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-yxCk9lgOBJ0",
+                "videoId": "yxCk9lgOBJ0",
+                "title": "Kızkardeşim Manifest LİDYA Olarak Admini Trolledi!!",
+                "channel": "Cerendirella",
+                "duration": "17:36",
+                "views": "277 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-AZ6Z-pfJrBw",
+                "videoId": "AZ6Z-pfJrBw",
+                "title": "Admin SADECE ADMİN AİLESİ Başlattı...",
+                "channel": "Cerendirella",
+                "duration": "17:21",
+                "views": "461 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-fS3QKqd2dWU",
+                "videoId": "fS3QKqd2dWU",
+                "title": "PK XD ADMİN'İN ANNESİ OLDUM ! @AdminPKXD EN YAKIN ARKADAŞI MAYA !? BİRİ BENİ KURTARSIN !!!| ÖZGÜŞ TV",
+                "channel": "ÖZGÜŞ TV",
+                "duration": "22:37",
+                "views": "523 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-IfxtcDHr0Tw",
+                "videoId": "IfxtcDHr0Tw",
+                "title": "PK XD ADMİN AİLESİ KURDUM💫 (Anne, Baba ve Bebek Admin) | ÖZGÜŞ TV",
+                "channel": "ÖZGÜŞ TV",
+                "duration": "23:15",
+                "views": "126 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-Wl17m2Y-zmc",
+                "videoId": "Wl17m2Y-zmc",
+                "title": "ADMİN VE NİMDA İLE BU UÇAĞA BİNMEMELİYDİM...",
+                "channel": "Cerendirella",
+                "duration": "17:56",
+                "views": "255 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-eblUo7RxqYs",
+                "videoId": "eblUo7RxqYs",
+                "title": "Admin ile PKXD'de RENKLERİMİZİ Değiştiriyoruz!!",
+                "channel": "Cerendirella",
+                "duration": "12:24",
+                "views": "110 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-YC0euGKSmcY",
+                "videoId": "YC0euGKSmcY",
+                "title": "ADMİN Takımı VS NİMDA Takımı ! -PKXD",
+                "channel": "Cerendirella",
+                "duration": "13:39",
+                "views": "121 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-1SxDKgDA19s",
+                "videoId": "1SxDKgDA19s",
+                "title": "ADMİN OLUP OYUNUN EN DEĞERLİ PETİNİ ALDIM! 😱 | Roblox Türkçe",
+                "channel": "Emre Belen",
+                "duration": "15:12",
+                "views": "862 görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-kp3yp47cI28",
+                "videoId": "kp3yp47cI28",
+                "title": "Admin ile birlikte KIZ TROLL KULESİNDE Tercihler Yaptık !!",
+                "channel": "Cerendirella",
+                "duration": "14:13",
+                "views": "225 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-IrTvlNcbTNE",
+                "videoId": "IrTvlNcbTNE",
+                "title": "Cemre BAŞKAN Oldu... Admin, Ceren,Nimda YARDIMCI OLDU !!",
+                "channel": "Cerendirella",
+                "duration": "16:50",
+                "views": "734 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-swQF-eI9ZQs",
+                "videoId": "swQF-eI9ZQs",
+                "title": "NİMDA VE ADMİN DALGA GEÇİNCE BİZ DE GLOW-UP GEÇİRDİK!!",
+                "channel": "Cerendirella",
+                "duration": "14:15",
+                "views": "503 B görüntüleme",
+                "cat": "YouTube"
+              },
+              {
+                "id": "yt-65LnfnfHrKc",
+                "videoId": "65LnfnfHrKc",
+                "title": "NEDEN Admin Köyümüze Geldi? - Minecraft",
+                "channel": "Ferited",
+                "duration": "28:25",
+                "views": "1,3 Mn görüntüleme",
+                "cat": "YouTube"
+              }
+            ]
+          }
+        ],
+        "savedVideos": [
+          {
+            "id": "yt-nIw_uYW1boI",
+            "videoId": "nIw_uYW1boI",
+            "title": "🔴CANLI - ADMİN PANELİYLE YENİ GÜNCELLEMEYİ İNCELİYORUZ! ROBUXLU YUMURTA DAĞITIYORUM!",
+            "channel": "Tetra Bey",
+            "duration": "CANLI",
+            "views": "871 kişi izliyor",
+            "cat": "Canlı Yayın"
+          },
+          {
+            "id": "yt-BCvxVc83DC0",
+            "videoId": "BCvxVc83DC0",
+            "title": "Roblox Steal An Egg'te ADMİN PANELİ Aktif Ettim!",
+            "channel": "Samet200",
+            "duration": "8:54",
+            "views": "4,2 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-A0Sq6mLC0xo",
+            "videoId": "A0Sq6mLC0xo",
+            "title": "Admin, Nimda ve Cemre ile birlikte 24 saat mor gün...",
+            "channel": "Cerendirella",
+            "duration": "13:47",
+            "views": "60 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-yxCk9lgOBJ0",
+            "videoId": "yxCk9lgOBJ0",
+            "title": "Kızkardeşim Manifest LİDYA Olarak Admini Trolledi!!",
+            "channel": "Cerendirella",
+            "duration": "17:36",
+            "views": "277 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-AZ6Z-pfJrBw",
+            "videoId": "AZ6Z-pfJrBw",
+            "title": "Admin SADECE ADMİN AİLESİ Başlattı...",
+            "channel": "Cerendirella",
+            "duration": "17:21",
+            "views": "461 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-fS3QKqd2dWU",
+            "videoId": "fS3QKqd2dWU",
+            "title": "PK XD ADMİN'İN ANNESİ OLDUM ! @AdminPKXD EN YAKIN ARKADAŞI MAYA !? BİRİ BENİ KURTARSIN !!!| ÖZGÜŞ TV",
+            "channel": "ÖZGÜŞ TV",
+            "duration": "22:37",
+            "views": "523 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-IfxtcDHr0Tw",
+            "videoId": "IfxtcDHr0Tw",
+            "title": "PK XD ADMİN AİLESİ KURDUM💫 (Anne, Baba ve Bebek Admin) | ÖZGÜŞ TV",
+            "channel": "ÖZGÜŞ TV",
+            "duration": "23:15",
+            "views": "126 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-Wl17m2Y-zmc",
+            "videoId": "Wl17m2Y-zmc",
+            "title": "ADMİN VE NİMDA İLE BU UÇAĞA BİNMEMELİYDİM...",
+            "channel": "Cerendirella",
+            "duration": "17:56",
+            "views": "255 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-eblUo7RxqYs",
+            "videoId": "eblUo7RxqYs",
+            "title": "Admin ile PKXD'de RENKLERİMİZİ Değiştiriyoruz!!",
+            "channel": "Cerendirella",
+            "duration": "12:24",
+            "views": "110 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-YC0euGKSmcY",
+            "videoId": "YC0euGKSmcY",
+            "title": "ADMİN Takımı VS NİMDA Takımı ! -PKXD",
+            "channel": "Cerendirella",
+            "duration": "13:39",
+            "views": "121 B görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-1SxDKgDA19s",
+            "videoId": "1SxDKgDA19s",
+            "title": "ADMİN OLUP OYUNUN EN DEĞERLİ PETİNİ ALDIM! 😱 | Roblox Türkçe",
+            "channel": "Emre Belen",
+            "duration": "15:12",
+            "views": "862 görüntüleme",
+            "cat": "YouTube"
+          },
+          {
+            "id": "yt-kp3yp47cI28",
+            "videoId": "kp3yp47cI28",
+            "title": "Admin ile birlikte KIZ TROLL KULESİNDE Tercihler Yaptık !!",
+            "channel": "Cerendirella",
+            "duration": "14:13",
+            "views": "225 B görüntüleme",
+            "cat": "YouTube"
+          }
+        ],
+        "historyVideos": [
+          {
+            "id": "yth-uQZgZn0nmPw",
+            "videoId": "uQZgZn0nmPw",
+            "title": "Teşkilat 193. Bölüm 2. Fragmanı @trt1",
+            "channel": "Teşkilat",
+            "duration": "VİDEO",
+            "watchedAt": "2026-11-14T12:49:31.759Z"
+          }
+        ]
+      }
+    },
+    {
+      "id": "usr-1794653908008",
+      "name": "oguz oguzhan",
+      "email": "oguzoguzhan@msn.com",
+      "passwordHash": "16b187841d5e638a350d4283b9d3fb18673e8c3079214d327b8138b5357e449d",
+      "role": "user",
+      "isActive": true,
+      "createdAt": "2026-11-14T10:58:28.008Z"
+    }
+  ],
+  "sources": [
+    {
+      "id": "src-1794656127688",
+      "userId": "usr-admin",
+      "type": "xtream_api",
+      "name": "IPTV Listem",
+      "url": "http://azrtv.org:8080/get.php?username=a6brjpgkfz&password=810xaiyghd&type=m3u&output=ts",
+      "channelCount": 783,
+      "createdAt": "2026-11-14T11:35:27.688Z"
+    },
+    {
+      "id": "src-1794654806824",
+      "userId": "usr-1794653908008",
+      "type": "m3u_url",
+      "name": "Benim IPTV",
+      "url": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+      "channelCount": 177,
+      "createdAt": "2026-11-14T11:13:26.824Z"
+    },
+    {
+      "id": "src-1794651670155",
+      "type": "xtream_api",
+      "name": "Benim IPTV",
+      "url": "http://azrtv.org:8080/get.php?username=a6brjpgkfz&password=810xaiyghd&type=m3u&output=ts",
+      "channelCount": 783,
+      "createdAt": "2026-11-14T10:21:10.155Z"
+    },
+    {
+      "id": "src-1794651731597",
+      "type": "m3u",
+      "name": "Benim IPTV",
+      "url": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+      "channelCount": 177,
+      "createdAt": "2026-11-14T10:22:11.597Z"
+    },
+    {
+      "id": "src-1794651792407",
+      "type": "xtream_api",
+      "name": "Benim IPTV",
+      "url": "http://azrtv.org:8080/get.php?username=a6brjpgkfz&password=810xaiyghd&type=m3u&output=ts",
+      "channelCount": 783,
+      "createdAt": "2026-11-14T10:23:12.407Z"
+    },
+    {
+      "id": "src-1794652194433",
+      "type": "xtream_api",
+      "name": "Benim IPTV",
+      "url": "http://azrtv.org:8080/get.php?username=a6brjpgkfz&password=810xaiyghd&type=m3u&output=ts",
+      "channelCount": 783,
+      "createdAt": "2026-11-14T10:29:54.433Z"
+    }
+  ],
+  "settings": {
+    "allowRegistration": true,
+    "requireLogin": true
+  }
+}

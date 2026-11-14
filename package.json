@@ -1,0 +1,10 @@
+{
+  "name": "tesflix",
+  "version": "1.0.0",
+  "description": "Tesflix (tesflix.com.tr) - Connected Car Web Utility & Tesla Multimedia Platform",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "announcements": [
+    {
+      "id": 16,
+      "title": "Doğum gününde 24 saat Premium hediye! 🎂",
+      "content": "Kaynaklar&Ayarlar bölümünden doğum gününü kaydet, o gün Premium avantajlarını keşfet.",
+      "type": "success",
+      "is_active": 1,
+      "created_at": "2026-11-11T19:02:53.000Z",
+      "title_en": "🎂 Enjoy 24 hours of Premium on your birthday!",
+      "content_en": "Go to Sources → Settings and save your birthday to unlock Premium benefits on your special day.",
+      "title_de": "🎂 Genieße 24 Stunden Premium an deinem Geburtstag!",
+      "content_de": "Speichere deinen Geburtstag unter Quellen → Einstellungen und entdecke an deinem Ehrentag die Premium-Vorteile."
+    },
+    {
+      "id": 14,
+      "title": "📢 Önemli Bilgilendirme: 15 Kasım Fiyat Güncellemesi & Son Fırsat!",
+      "content": "15 Kasım Sonrası Yeni Destek Planları:\n• Haftalık Plan: 1,99 € (15 Kasımdan İtibaren)\n• Aylık Plan: 4,49 €\n• Yıllık Plan: 44,90 €",
+      "type": "warning",
+      "is_active": 1,
+      "created_at": "2026-10-14T11:07:05.000Z",
+      "title_en": "📢 Important Notice: Nov 15 Pricing Update & Final Opportunity!",
+      "content_en": "New Plans Effective Nov 15:\n• Weekly Plan: €1.99 (After Nov 15)\n• Monthly Plan: €4.49\n• Yearly Plan: €44.90",
+      "title_de": "📢 Wichtige Mitteilung: Preisaktualisierung zum 15. November & Letzte Chance!",
+      "content_de": "Neue Tarife ab dem 15. November:\n• Wochen-Abo: 1,99 € (Demnächst)\n• Monats-Abo: 4,49 €\n• Jahres-Abo: 44,90 €"
+    }
+  ],
+  "epg": {
+    "89710": { "title": "Evlilik Güzeldir", "description": "TRT 1 Canlı Yayın Kuşağı", "start": "03:15", "end": "05:28", "progress": 49 },
+    "190311": { "title": "Gel Konuşalım", "description": "TV8 Aktüel Magazin", "start": "02:30", "end": "04:30", "progress": 92 },
+    "190307": { "title": "Muhtemel Aşk", "description": "Show TV Yerli Dizi", "start": "02:45", "end": "04:45", "progress": 80 },
+    "190306": { "title": "Bir Gece Masalı", "description": "ATV Dizi Tekrarı", "start": "02:20", "end": "05:00", "progress": 75 },
+    "108946": { "title": "Üç Kız Kardeş", "description": "Kanal D Drama", "start": "04:00", "end": "07:00", "progress": 12 },
+    "89709": { "title": "Yalı Çapkını", "description": "Star TV Dizi", "start": "03:00", "end": "05:30", "progress": 64 },
+    "16776103": { "title": "Gece Bülteni", "description": "NTV Haber Merkezi", "start": "04:00", "end": "05:00", "progress": 45 },
+    "108947": { "title": "Kızıl Goncalar", "description": "NOW Özel Gösterim", "start": "02:45", "end": "05:15", "progress": 70 },
+    "221885": { "title": "Küresel Piyasalar", "description": "CNBC-e Ekonomi", "start": "04:00", "end": "06:00", "progress": 30 },
+    "131261121": { "title": "Gece Bakışı", "description": "TRT Haber Canlı", "start": "04:00", "end": "05:00", "progress": 48 },
+    "108941": { "title": "Sözüm Var", "description": "Halk TV Tartışma", "start": "03:30", "end": "06:00", "progress": 40 },
+    "240253": { "title": "Asya Piyasaları", "description": "Bloomberg HT Canlı", "start": "04:00", "end": "06:00", "progress": 33 },
+    "108940": { "title": "Gece Ajansı", "description": "Haber Global", "start": "03:00", "end": "05:00", "progress": 72 },
+    "108945": { "title": "Gün Başlıyor Hazırlık", "description": "Habertürk Canlı", "start": "04:00", "end": "06:00", "progress": 28 },
+    "240252": { "title": "Rafadan Tayfa", "description": "TRT Çocuk Çizgi Dizi", "start": "04:10", "end": "04:45", "progress": 55 },
+    "190310": { "title": "Doğanın Kalbi", "description": "TRT Belgesel Kuşağı", "start": "03:50", "end": "04:50", "progress": 62 },
+    "4932079": { "title": "Spor Manşet", "description": "TRT Spor Özetler", "start": "04:00", "end": "05:30", "progress": 35 },
+    "16765163": { "title": "Son Sayfa", "description": "A Spor Canlı", "start": "03:00", "end": "05:00", "progress": 78 }
+  }
+}

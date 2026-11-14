@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr" data-theme="dark" data-ui="mevcut">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <title>Tesflix - Araç Multimedya Ekranı — Tesla için optimize edildi</title>
+  <meta name="description" content="Tesla ve bağlı araç ekranları için optimize edilmiş canlı TV, medya oynatıcı, Xtream/M3U kaynak yönetimi ve araç içi multimedya platformu." />
+  <meta name="theme-color" content="#090710" />
+  <link rel="help" type="text/plain" href="/llms.txt" title="AI Agent Instructions" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/css/sefirox.css" />
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.15/dist/hls.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mpegts.js@1.7.3/dist/mpegts.js"></script>
+</head>
+<body>
+  <!-- Tesla Chromium Audio Session Keep-Alive -->
+  <audio id="tesla-keepalive" src="/silent.wav" loop preload="auto" style="display:none"></audio>
+
+  <!-- Tesflix AI & Voice Agent Command Manifest -->
+  <script id="sefirox-ai-commands" type="application/json">
+  {
+    "platform": "Tesflix Connected Car Web Utility",
+    "domain": "tesflix.com.tr",
+    "optimizedFor": ["Tesla MCU2 (Intel Atom)", "Tesla MCU3 (AMD Ryzen)", "Connected Car Browsers"],
+    "voiceCommands": [
+      { "intent": "play_channel", "examples": ["TRT 1 aç", "Play Habertürk", "CNN Türk izle"], "route": "/watch/:id" },
+      { "intent": "open_dashboard", "examples": ["Panele git", "Open dashboard", "Multimedya ekranı"], "route": "/dashboard" },
+      { "intent": "open_sources", "examples": ["Kaynaklar ve ayarlar", "IPTV ekle", "Tema değiştir"], "route": "/dashboard/sources" },
+      { "intent": "toggle_fullscreen", "examples": ["Tam ekran yap", "Park modu tam ekran"], "action": "youtube_redirect_fullscreen" }
+    ]
+  }
+  </script>
+
+  <div id="app"></div>
+
+  <script type="module" src="/js/app.js"></script>
+</body>
+</html>
